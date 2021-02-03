@@ -17,4 +17,4 @@ page_soup = soup(page_html , "html.parser") #parsing html into html(not xml,json
 page_soup__directItem = page_soup.findAll("div",{"class":"game_purchase_price price"})#looking for every div with class on the page "game_description_snippet" 
 directItem__content = page_soup__directItem[0].text.strip() #Getting exact value of the container
 
-print("Actual product cost:",directItem__content)
+print("Actual product price:",directItem__content)
