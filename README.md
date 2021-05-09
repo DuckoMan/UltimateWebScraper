@@ -2,7 +2,7 @@
 
 **Version 0.8.0**
 
-📃 Web scraper for all infow from WEB you need
+📃 Web scraper for all info from WEB you need
 
 ## 👨‍💻 Contributors
 
